@@ -6,6 +6,6 @@ import (
 )
 
 func main() {
-     fmt.Printf(stringutil.Reverse("BBACC"))
+     fmt.Printf(stringutil.Reverse("Yomamma"))
 }
 
